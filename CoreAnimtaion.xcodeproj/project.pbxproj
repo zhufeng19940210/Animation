@@ -13,6 +13,20 @@
 		BFE887921FCCDC13002595C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFE887911FCCDC13002595C6 /* Assets.xcassets */; };
 		BFE887951FCCDC13002595C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFE887931FCCDC13002595C6 /* LaunchScreen.storyboard */; };
 		BFE887981FCCDC13002595C6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887971FCCDC13002595C6 /* main.m */; };
+		BFE887B91FCCDF8A002595C6 /* CAShapeLayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887B81FCCDF8A002595C6 /* CAShapeLayerViewController.m */; };
+		BFE887BC1FCCDFA6002595C6 /* CATextLayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887BB1FCCDFA6002595C6 /* CATextLayerViewController.m */; };
+		BFE887C01FCCE1AD002595C6 /* CAAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887BE1FCCE1AD002595C6 /* CAAnimationViewController.m */; };
+		BFE887C11FCCE1AD002595C6 /* CAAnimationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFE887BF1FCCE1AD002595C6 /* CAAnimationViewController.xib */; };
+		BFE887C51FCCE1BE002595C6 /* AnimationTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887C31FCCE1BE002595C6 /* AnimationTestViewController.m */; };
+		BFE887C61FCCE1BE002595C6 /* AnimationTestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFE887C41FCCE1BE002595C6 /* AnimationTestViewController.xib */; };
+		BFE887CA1FCCE1CE002595C6 /* CADisplayLinkViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887C81FCCE1CE002595C6 /* CADisplayLinkViewController.m */; };
+		BFE887CB1FCCE1CE002595C6 /* CADisplayLinkViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFE887C91FCCE1CE002595C6 /* CADisplayLinkViewController.xib */; };
+		BFE887CF1FCCE1EA002595C6 /* AlphaTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887CD1FCCE1EA002595C6 /* AlphaTestViewController.m */; };
+		BFE887D01FCCE1EA002595C6 /* AlphaTestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFE887CE1FCCE1EA002595C6 /* AlphaTestViewController.xib */; };
+		BFE887D41FCCE1FB002595C6 /* LIZISendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887D21FCCE1FB002595C6 /* LIZISendViewController.m */; };
+		BFE887D51FCCE1FB002595C6 /* LIZISendViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFE887D31FCCE1FB002595C6 /* LIZISendViewController.xib */; };
+		BFE887D81FCCE7A9002595C6 /* NSString+Tool.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887D71FCCE7A9002595C6 /* NSString+Tool.m */; };
+		BFE887DB1FCCE898002595C6 /* DWLyricLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE887DA1FCCE898002595C6 /* DWLyricLabel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +40,29 @@
 		BFE887941FCCDC13002595C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BFE887961FCCDC13002595C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BFE887971FCCDC13002595C6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BFE887B71FCCDF8A002595C6 /* CAShapeLayerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAShapeLayerViewController.h; sourceTree = "<group>"; };
+		BFE887B81FCCDF8A002595C6 /* CAShapeLayerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAShapeLayerViewController.m; sourceTree = "<group>"; };
+		BFE887BA1FCCDFA6002595C6 /* CATextLayerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CATextLayerViewController.h; sourceTree = "<group>"; };
+		BFE887BB1FCCDFA6002595C6 /* CATextLayerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CATextLayerViewController.m; sourceTree = "<group>"; };
+		BFE887BD1FCCE1AD002595C6 /* CAAnimationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAAnimationViewController.h; sourceTree = "<group>"; };
+		BFE887BE1FCCE1AD002595C6 /* CAAnimationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAAnimationViewController.m; sourceTree = "<group>"; };
+		BFE887BF1FCCE1AD002595C6 /* CAAnimationViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CAAnimationViewController.xib; sourceTree = "<group>"; };
+		BFE887C21FCCE1BE002595C6 /* AnimationTestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimationTestViewController.h; sourceTree = "<group>"; };
+		BFE887C31FCCE1BE002595C6 /* AnimationTestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationTestViewController.m; sourceTree = "<group>"; };
+		BFE887C41FCCE1BE002595C6 /* AnimationTestViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AnimationTestViewController.xib; sourceTree = "<group>"; };
+		BFE887C71FCCE1CE002595C6 /* CADisplayLinkViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CADisplayLinkViewController.h; sourceTree = "<group>"; };
+		BFE887C81FCCE1CE002595C6 /* CADisplayLinkViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CADisplayLinkViewController.m; sourceTree = "<group>"; };
+		BFE887C91FCCE1CE002595C6 /* CADisplayLinkViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CADisplayLinkViewController.xib; sourceTree = "<group>"; };
+		BFE887CC1FCCE1EA002595C6 /* AlphaTestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlphaTestViewController.h; sourceTree = "<group>"; };
+		BFE887CD1FCCE1EA002595C6 /* AlphaTestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlphaTestViewController.m; sourceTree = "<group>"; };
+		BFE887CE1FCCE1EA002595C6 /* AlphaTestViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AlphaTestViewController.xib; sourceTree = "<group>"; };
+		BFE887D11FCCE1FB002595C6 /* LIZISendViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LIZISendViewController.h; sourceTree = "<group>"; };
+		BFE887D21FCCE1FB002595C6 /* LIZISendViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LIZISendViewController.m; sourceTree = "<group>"; };
+		BFE887D31FCCE1FB002595C6 /* LIZISendViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LIZISendViewController.xib; sourceTree = "<group>"; };
+		BFE887D61FCCE7A9002595C6 /* NSString+Tool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+Tool.h"; sourceTree = "<group>"; };
+		BFE887D71FCCE7A9002595C6 /* NSString+Tool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+Tool.m"; sourceTree = "<group>"; };
+		BFE887D91FCCE898002595C6 /* DWLyricLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWLyricLabel.h; sourceTree = "<group>"; };
+		BFE887DA1FCCE898002595C6 /* DWLyricLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWLyricLabel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +95,7 @@
 		BFE887871FCCDC12002595C6 /* CoreAnimtaion */ = {
 			isa = PBXGroup;
 			children = (
+				BFE8879E1FCCDF29002595C6 /* Classes */,
 				BFE887881FCCDC12002595C6 /* AppDelegate.h */,
 				BFE887891FCCDC12002595C6 /* AppDelegate.m */,
 				BFE8878B1FCCDC12002595C6 /* ViewController.h */,
@@ -69,6 +107,228 @@
 				BFE887971FCCDC13002595C6 /* main.m */,
 			);
 			path = CoreAnimtaion;
+			sourceTree = "<group>";
+		};
+		BFE8879E1FCCDF29002595C6 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				BFE8879F1FCCDF29002595C6 /* AnimationTest */,
+				BFE887A31FCCDF29002595C6 /* BaseAnimation */,
+				BFE887A71FCCDF29002595C6 /* CADiplayLink */,
+				BFE887AB1FCCDF29002595C6 /* CALayer的子类 */,
+				BFE887AF1FCCDF29002595C6 /* 图层的透视渐变复制 */,
+				BFE887B31FCCDF29002595C6 /* 粒子发射 */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		BFE8879F1FCCDF29002595C6 /* AnimationTest */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887A01FCCDF29002595C6 /* Controller */,
+				BFE887A11FCCDF29002595C6 /* Model */,
+				BFE887A21FCCDF29002595C6 /* View */,
+			);
+			path = AnimationTest;
+			sourceTree = "<group>";
+		};
+		BFE887A01FCCDF29002595C6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887C21FCCE1BE002595C6 /* AnimationTestViewController.h */,
+				BFE887C31FCCE1BE002595C6 /* AnimationTestViewController.m */,
+				BFE887C41FCCE1BE002595C6 /* AnimationTestViewController.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		BFE887A11FCCDF29002595C6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BFE887A21FCCDF29002595C6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BFE887A31FCCDF29002595C6 /* BaseAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887A41FCCDF29002595C6 /* Controller */,
+				BFE887A51FCCDF29002595C6 /* Model */,
+				BFE887A61FCCDF29002595C6 /* View */,
+			);
+			path = BaseAnimation;
+			sourceTree = "<group>";
+		};
+		BFE887A41FCCDF29002595C6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887BD1FCCE1AD002595C6 /* CAAnimationViewController.h */,
+				BFE887BE1FCCE1AD002595C6 /* CAAnimationViewController.m */,
+				BFE887BF1FCCE1AD002595C6 /* CAAnimationViewController.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		BFE887A51FCCDF29002595C6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BFE887A61FCCDF29002595C6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BFE887A71FCCDF29002595C6 /* CADiplayLink */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887A81FCCDF29002595C6 /* Controller */,
+				BFE887A91FCCDF29002595C6 /* Model */,
+				BFE887AA1FCCDF29002595C6 /* View */,
+			);
+			path = CADiplayLink;
+			sourceTree = "<group>";
+		};
+		BFE887A81FCCDF29002595C6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887C71FCCE1CE002595C6 /* CADisplayLinkViewController.h */,
+				BFE887C81FCCE1CE002595C6 /* CADisplayLinkViewController.m */,
+				BFE887C91FCCE1CE002595C6 /* CADisplayLinkViewController.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		BFE887A91FCCDF29002595C6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BFE887AA1FCCDF29002595C6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BFE887AB1FCCDF29002595C6 /* CALayer的子类 */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887AC1FCCDF29002595C6 /* Controller */,
+				BFE887AD1FCCDF29002595C6 /* Model */,
+				BFE887AE1FCCDF29002595C6 /* View */,
+			);
+			path = "CALayer的子类";
+			sourceTree = "<group>";
+		};
+		BFE887AC1FCCDF29002595C6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887B71FCCDF8A002595C6 /* CAShapeLayerViewController.h */,
+				BFE887B81FCCDF8A002595C6 /* CAShapeLayerViewController.m */,
+				BFE887BA1FCCDFA6002595C6 /* CATextLayerViewController.h */,
+				BFE887BB1FCCDFA6002595C6 /* CATextLayerViewController.m */,
+				BFE887D61FCCE7A9002595C6 /* NSString+Tool.h */,
+				BFE887D71FCCE7A9002595C6 /* NSString+Tool.m */,
+				BFE887D91FCCE898002595C6 /* DWLyricLabel.h */,
+				BFE887DA1FCCE898002595C6 /* DWLyricLabel.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		BFE887AD1FCCDF29002595C6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BFE887AE1FCCDF29002595C6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BFE887AF1FCCDF29002595C6 /* 图层的透视渐变复制 */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887B01FCCDF29002595C6 /* Controller */,
+				BFE887B11FCCDF29002595C6 /* Model */,
+				BFE887B21FCCDF29002595C6 /* View */,
+			);
+			path = "图层的透视渐变复制";
+			sourceTree = "<group>";
+		};
+		BFE887B01FCCDF29002595C6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887CC1FCCE1EA002595C6 /* AlphaTestViewController.h */,
+				BFE887CD1FCCE1EA002595C6 /* AlphaTestViewController.m */,
+				BFE887CE1FCCE1EA002595C6 /* AlphaTestViewController.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		BFE887B11FCCDF29002595C6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BFE887B21FCCDF29002595C6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BFE887B31FCCDF29002595C6 /* 粒子发射 */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887B41FCCDF29002595C6 /* Controller */,
+				BFE887B51FCCDF29002595C6 /* Model */,
+				BFE887B61FCCDF29002595C6 /* View */,
+			);
+			path = "粒子发射";
+			sourceTree = "<group>";
+		};
+		BFE887B41FCCDF29002595C6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				BFE887D11FCCE1FB002595C6 /* LIZISendViewController.h */,
+				BFE887D21FCCE1FB002595C6 /* LIZISendViewController.m */,
+				BFE887D31FCCE1FB002595C6 /* LIZISendViewController.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		BFE887B51FCCDF29002595C6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BFE887B61FCCDF29002595C6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,9 +389,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFE887D01FCCE1EA002595C6 /* AlphaTestViewController.xib in Resources */,
 				BFE887951FCCDC13002595C6 /* LaunchScreen.storyboard in Resources */,
+				BFE887C61FCCE1BE002595C6 /* AnimationTestViewController.xib in Resources */,
+				BFE887C11FCCE1AD002595C6 /* CAAnimationViewController.xib in Resources */,
+				BFE887D51FCCE1FB002595C6 /* LIZISendViewController.xib in Resources */,
 				BFE887921FCCDC13002595C6 /* Assets.xcassets in Resources */,
 				BFE887901FCCDC13002595C6 /* Main.storyboard in Resources */,
+				BFE887CB1FCCE1CE002595C6 /* CADisplayLinkViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,9 +407,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFE887B91FCCDF8A002595C6 /* CAShapeLayerViewController.m in Sources */,
 				BFE8878D1FCCDC12002595C6 /* ViewController.m in Sources */,
 				BFE887981FCCDC13002595C6 /* main.m in Sources */,
+				BFE887D81FCCE7A9002595C6 /* NSString+Tool.m in Sources */,
+				BFE887CF1FCCE1EA002595C6 /* AlphaTestViewController.m in Sources */,
 				BFE8878A1FCCDC12002595C6 /* AppDelegate.m in Sources */,
+				BFE887BC1FCCDFA6002595C6 /* CATextLayerViewController.m in Sources */,
+				BFE887C51FCCE1BE002595C6 /* AnimationTestViewController.m in Sources */,
+				BFE887C01FCCE1AD002595C6 /* CAAnimationViewController.m in Sources */,
+				BFE887D41FCCE1FB002595C6 /* LIZISendViewController.m in Sources */,
+				BFE887CA1FCCE1CE002595C6 /* CADisplayLinkViewController.m in Sources */,
+				BFE887DB1FCCE898002595C6 /* DWLyricLabel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
